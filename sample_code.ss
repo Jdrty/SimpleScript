@@ -4,9 +4,6 @@ var integer y = 10;
 var string greeting = "Hello, World!";
 var boolean flag = true;
 
-// Pointer declaration
-*integer ptr = x;
-
 // Array declaration
 var integer array = [1, 2, 3, 4, 5];
 
@@ -18,10 +15,6 @@ function add(a, b) {
 // Function call and assignment
 var integer result = add(x, y);
 print(result);
-
-// Using pointer
-print(ptr);
-print(*ptr);
 
 // Array access and modification
 array[2] = 10;

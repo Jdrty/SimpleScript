@@ -11,3 +11,4 @@
 ## Key Notes
 - **Things Don't Work:** Certain Debugging features, arrays sometimes, don't work
 - **Lack of Testing:** This has only been tested by me for functionality not real testing
+- **Pointers:** Pointers dont work yet, I attempted to build them myself but it may not be possible in python
